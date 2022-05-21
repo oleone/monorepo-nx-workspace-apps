@@ -1,6 +1,6 @@
 {
-  "name": "nx-monorepo-apps",
-  "version": "0.0.0",
+  "name": "@acetimesolucoes/nx-monorepo-template",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "start": "nx serve",
